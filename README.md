@@ -1,0 +1,3 @@
+# InDesign CC
+
+Utility scaffolding.
