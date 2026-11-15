@@ -1,3 +1,3 @@
 # InDesign CC
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
